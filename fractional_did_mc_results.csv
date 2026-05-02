@@ -1,0 +1,7 @@
+DGP,Estimator,K,Mean estimate,Bias,RMSE,Replications
+A. selection on persistent pre-treatment state,Levels (d=0),,2.538729599221165,1.5387295992211651,1.549177735665496,5000
+A. selection on persistent pre-treatment state,Oracle fractional DiD (d=d0),30.0,1.0265551822199446,0.0265551822199445,0.1192818227499388,5000
+A. selection on persistent pre-treatment state,Standard DiD (d=1),,0.2788783702437392,-0.7211216297562608,0.7320071546575582,5000
+B. selection on future untreated innovation,Levels (d=0),,2.542513771445522,1.5425137714455222,1.553369214885043,5000
+B. selection on future untreated innovation,Oracle fractional DiD (d=d0),30.0,2.542008550285752,1.5420085502857517,1.54384932903981,5000
+B. selection on future untreated innovation,Standard DiD (d=1),,2.541092333042401,1.5410923330424011,1.544253769301975,5000
