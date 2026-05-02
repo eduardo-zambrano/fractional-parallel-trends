@@ -5,9 +5,7 @@ online appendix of:
 
 > Zambrano, E. "Fractional parallel trends."
 
-The paper studies a fractional-difference relaxation of the parallel-trends
-restriction in difference-in-differences. The simulation is an illustration of
-the maintained identifying restriction, not evidence of general robustness.
+The paper studies fractional parallel trends in difference-in-differences. It uses fractional differencing to define a family of identifying restrictions between levels comparisons and ordinary first-difference DiD. The Monte Carlo code illustrates the design in which the proposed restriction has content—selection on persistent untreated states with comparable future fractional innovations—and also shows that the method fails when selection is on future untreated innovations, as ordinary DiD does.
 
 ## Contents
 
