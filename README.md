@@ -3,7 +3,7 @@
 This repository contains the Monte Carlo code and simulation output for the
 online appendix of:
 
-> Zambrano, E. "Fractional parallel trends." *Economics Letters* (forthcoming).
+> Zambrano, E. "Fractional parallel trends."
 
 The paper studies a fractional-difference relaxation of the parallel-trends
 restriction in difference-in-differences. The simulation is an illustration of
@@ -51,7 +51,6 @@ MIT — see `LICENSE`.
 @article{zambrano_fractional_parallel_trends,
   author  = {Zambrano, Eduardo},
   title   = {Fractional parallel trends},
-  journal = {Economics Letters},
-  year    = {forthcoming}
+  year    = {2026}
 }
 ```
